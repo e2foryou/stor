@@ -1,4 +1,11 @@
-.countdown-container {
+.countdown-container
+body {
+    background-position: center;
+    background-image: url("https://1.bp.blogspot.com/-ELzBYTOg2_c/XtVd1EDYqDI/AAAAAAAATFk/9V75uS4Q2LQQatC3LjgTIAJJRzP88FMBgCLcBGAsYHQ/s1600/2017-09-19-11.48.22.jpg");
+    background-attachment: fixed;
+}
+
+ {
   background: #b6e8ff;
   padding: 24px;
   color: #1d3357;
@@ -54,8 +61,4 @@
   background: #e03f3f;
 }
 
-body {
-    background-position: center;
-    background-image: url("https://1.bp.blogspot.com/-ELzBYTOg2_c/XtVd1EDYqDI/AAAAAAAATFk/9V75uS4Q2LQQatC3LjgTIAJJRzP88FMBgCLcBGAsYHQ/s1600/2017-09-19-11.48.22.jpg");
-    background-attachment: fixed;
-}
+
