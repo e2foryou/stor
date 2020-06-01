@@ -6,7 +6,7 @@ const secondDisplay = document.querySelector(".seconds .number");
 const countdownContainer = document.querySelector(".countdown-container");
 
 const endDate = new Date("june 04 2020 17:00:00");
-let saleEnded = false;
+let saleEnded = true;
 
 const updateTimer = () => {
   let currentDate = new Date();
